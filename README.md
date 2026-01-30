@@ -1,7 +1,7 @@
 # Hello, I'm Victor Mudiaga Erunedo
 <a href="https://www.linkedin.com/in/mudiaga-victor-erunedo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cybersecurity student with a strong interest in defensive security, threat detection, and hands‑on lab work. I’m actively building skills through practical projects in SOC analysis, SIEM monitoring, and automation to prepare for a role as a Tier 1 SOC Analyst.
+I am a cybersecurity student with a strong interest in defensive security, threat detection, and hands‑on lab work. I’m actively building skills through practical projects in SOC analysis, SIEM monitoring, and automation.
 
 ## Objective
 
