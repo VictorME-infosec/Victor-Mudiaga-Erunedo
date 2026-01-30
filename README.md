@@ -1,14 +1,12 @@
 # Hello, I'm Victor Mudiaga Erunedo
 <a href="https://www.linkedin.com/in/mudiaga-victor-erunedo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am a cybersecurity student with a strong interest in defensive security, threat detection, and hands‑on lab work. I’m actively building skills through practical projects in SOC analysis, SIEM monitoring, and automation to prepare for a role as a Tier 1 SOC Analyst.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -48,6 +46,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<img src="https://img.shields.io/badge/-CompTIA_A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
